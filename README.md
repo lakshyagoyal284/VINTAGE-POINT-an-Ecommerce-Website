@@ -1,4 +1,4 @@
-# 🛍️ eCommerce Landing Page
+# 🛍️ VINTAGE POINT - eCommerce Landing Page
 
 A **modern and fully responsive eCommerce landing page** built using **Tailwind CSS** and **vanilla JavaScript**. This project demonstrates clean UI design, responsive layout techniques, interactive components, and ends with deployment on **Hostinger**.
 
@@ -31,12 +31,19 @@ A **modern and fully responsive eCommerce landing page** built using **Tailwind 
 1. **Clone the repo:**
 
 ```bash
-git clone git@github.com:codewithsadee/cozynest.git
-cd vintagepoint
+git clone https://github.com/lakshyagoyal284/VINTAGE-POINT-an-Ecommerce-Website.git
+cd VINTAGE-POINT-an-Ecommerce-Website
 ```
 
-2. **Open** `index.html` in your browser
-   No build tools needed – just open and go!
+2. **Install dependencies and build:**
+
+```bash
+npm install
+npm run build
+```
+
+3. **Open** `index.html` in your browser
+   Or run `npm run watch` for development
 
 ## 📺 Watch the complete tutorial
 
