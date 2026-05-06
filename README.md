@@ -32,7 +32,7 @@ A **modern and fully responsive eCommerce landing page** built using **Tailwind 
 
 ```bash
 git clone git@github.com:codewithsadee/cozynest.git
-cd cozynest
+cd vintagepoint
 ```
 
 2. **Open** `index.html` in your browser
