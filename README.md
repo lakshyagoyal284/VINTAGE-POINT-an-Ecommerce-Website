@@ -6,7 +6,7 @@ A **modern and fully responsive eCommerce landing page** built using **Tailwind 
 
 ## 🚀 Live Demo
 
-🔗 [View Deployed Site](https://cozynest.codewithsadee.com)
+🔗 [View Deployed Site] ------ ADDING SOON
 
 ## 📌 Features
 
@@ -47,6 +47,5 @@ npm run build
 
 ## 📺 Watch the complete tutorial
 
-🔗 [YouTube](https://https://youtu.be/Gjjlw3TfLXg)
 
 THANK YOU ❤
